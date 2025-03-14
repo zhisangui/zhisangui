@@ -16,11 +16,11 @@
 
 
 📊 ​**GitHub Stats**  
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhisangui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhisangui&theme=ambient_gradient&show_icons=true" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhisangui&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 🌟 ​**Collaboration**  
-"最近我在微服务架构和系统性能优化方面持续探索，近期正在实践Spring Cloud Alibaba的分布式解决方案。我的ZOJ系统整合了消息队列和Docker部署，欢迎通过Issue交流技术细节！开放接受项目合作与代码评审，共同提升工程化能力~"
+"Recently, I have been exploring microservice architecture and system performance optimization, and I am currently practicing Spring Cloud Alibaba's distributed solution. My ZOJ system integrates message queuing and Docker deployment, welcome to share technical details via Issue! Open to project cooperation and code review to jointly improve engineering capabilities ~"
 
 📫 ​**Connect With Me**  
-[![QQ邮箱](https://img.shields.io/badge/-QQ%20Mail-179CD4?style=flat&logo=mail.ru&logoColor=white)](mailto:zhisangui@qq.com)
+[![QQ Mail](https://img.shields.io/badge/-QQ%20Mail-179CD4?style=flat&logo=mail.ru&logoColor=white)](mailto:zhisangui@qq.com)
